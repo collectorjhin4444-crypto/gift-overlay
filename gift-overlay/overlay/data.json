@@ -1,19 +1,44 @@
 {
   "sets": [
     {
-      "image": "images/rose.webp",
-      "name": "ローズ",
-      "text": "ありがとう!"
+      "image": "images\\rose.webp",
+      "name": "",
+      "text": "ヤー"
     },
     {
       "image": "images/cat-paw.webp",
-      "name": "猫の足",
-      "text": "かわいい〜"
+      "name": "",
+      "text": "パワー"
+    },
+    {
+      "image": "images/初見です.webp",
+      "name": "小林",
+      "text": ""
     },
     {
       "image": "images/baseball.webp",
-      "name": "野球",
-      "text": "ナイスバッティング!"
+      "name": "",
+      "text": "ペイペイ"
+    },
+    {
+      "image": "images/GG.webp",
+      "name": "",
+      "text": "赤いきつね"
+    },
+    {
+      "image": "images/スパーGG.webp",
+      "name": "",
+      "text": "ｲﾝﾊﾟｸﾄﾌﾗｯｼｭ"
+    },
+    {
+      "image": "images/ゲームコントローラー.webp",
+      "name": "",
+      "text": "シンフォギア"
+    },
+    {
+      "image": "images/クラッカー.webp",
+      "name": "ｱｸｾﾗﾚｰﾀｰﾎﾞｰﾅｽ",
+      "text": ""
     }
   ]
 }
